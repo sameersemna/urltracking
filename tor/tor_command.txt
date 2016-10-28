@@ -1,0 +1,2 @@
+/opt/local/bin/tor -f /Users/sameer/www/apps/phantom/urltracking/tor/config/IN &
+/opt/local/bin/tor -f /Users/sameer/www/apps/phantom/urltracking/tor/config/US &
