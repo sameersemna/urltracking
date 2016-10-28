@@ -24,6 +24,12 @@ phatomjs folder contains javascript files that will be executed by phantomjs hea
 
 we use multiple instances of tor proxy running on seperate ports for different countries
 
+#Make working directories
+mkdir ./tor/config
+mkdir ./tor/data
+mkdir ./tor/log
+mkdir ./phantomjs/log
+
 
 #Execute:
 
